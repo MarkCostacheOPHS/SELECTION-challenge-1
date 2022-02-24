@@ -7,3 +7,12 @@ if number1 > number2:
     print(number2, number1)
 else:
     print(number1, number2)
+
+Challenge 2:
+
+number = int(input("enter a number under 20 >"))
+
+if number > 20:
+    print("too high")
+else:
+    print("thank you")
